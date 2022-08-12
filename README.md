@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macdoozled
 - 👀 I’m interested in web development and program enginerring. 
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently refreshing CSS and HTML and learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
